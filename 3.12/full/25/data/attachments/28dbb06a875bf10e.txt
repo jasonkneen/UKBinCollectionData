@@ -1,0 +1,7 @@
+Running test for council: LondonBoroughLewisham
+on    Monday.
+<re.Match object; span=(0, 12), match='on    Monday'>
+on    Monday.
+<re.Match object; span=(0, 12), match='on    Monday'>
+on    Monday.          Your next collection date is     03/02/2025.
+<re.Match object; span=(0, 12), match='on    Monday'>

@@ -1,0 +1,24 @@
+Running test for council: CotswoldDistrictCouncil
+An error occurred: Message: 
+Stacktrace:
+#0 0x560260ebcdca <unknown>
+#1 0x5602609b33f0 <unknown>
+#2 0x560260a0310c <unknown>
+#3 0x560260a03331 <unknown>
+#4 0x560260a49154 <unknown>
+#5 0x560260a27abd <unknown>
+#6 0x560260a464b3 <unknown>
+#7 0x560260a27833 <unknown>
+#8 0x5602609f45a0 <unknown>
+#9 0x5602609f5ece <unknown>
+#10 0x560260e86bdb <unknown>
+#11 0x560260e8ab67 <unknown>
+#12 0x560260e723bc <unknown>
+#13 0x560260e8b727 <unknown>
+#14 0x560260e5674f <unknown>
+#15 0x560260eab938 <unknown>
+#16 0x560260eabb00 <unknown>
+#17 0x560260ebbc46 <unknown>
+#18 0x7fbac4e99a94 <unknown>
+#19 0x7fbac4f26a34 __clone
+

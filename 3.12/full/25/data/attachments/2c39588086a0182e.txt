@@ -1,0 +1,24 @@
+Running test for council: GloucesterCityCouncil
+An error occurred: Message: 
+Stacktrace:
+#0 0x563e7a48ddca <unknown>
+#1 0x563e79f843f0 <unknown>
+#2 0x563e79fd410c <unknown>
+#3 0x563e79fd4331 <unknown>
+#4 0x563e7a01a154 <unknown>
+#5 0x563e79ff8abd <unknown>
+#6 0x563e7a0174b3 <unknown>
+#7 0x563e79ff8833 <unknown>
+#8 0x563e79fc55a0 <unknown>
+#9 0x563e79fc6ece <unknown>
+#10 0x563e7a457bdb <unknown>
+#11 0x563e7a45bb67 <unknown>
+#12 0x563e7a4433bc <unknown>
+#13 0x563e7a45c727 <unknown>
+#14 0x563e7a42774f <unknown>
+#15 0x563e7a47c938 <unknown>
+#16 0x563e7a47cb00 <unknown>
+#17 0x563e7a48cc46 <unknown>
+#18 0x7f5a991eaa94 <unknown>
+#19 0x7f5a99277a34 __clone
+
