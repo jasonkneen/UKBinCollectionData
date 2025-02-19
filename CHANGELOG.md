@@ -1,4 +1,117 @@
 =======
+## 0.135.2 (2025-02-19)
+
+### Fix
+
+- North Yorkshire - multiple bins on a day
+
+## 0.135.1 (2025-02-18)
+
+### Fix
+
+- devcontainer
+
+## 0.135.0 (2025-02-17)
+
+### Feat
+
+- Adding Runnymede Borough Council
+- Adding Cherwell District Council
+- Adding Epsom and Ewell Borough Council
+- Adding Redcar and Cleveland Council
+- Adding Amber Valley Borough Council
+- Adding Bolsover Council
+
+### Fix
+
+- #833 adding Middlesbrough and check script for Selenium
+- Cotswold District Council
+- #1238
+- Leeds City Council
+- #1222
+- Derbyshire Dales District Council
+- Conwy County Borough
+- Sunderland City Council
+- #1219
+- Tendring District Council
+- #1221
+- #1214
+- #923
+- #895
+- #841
+- #903
+- #990
+- Torridge District Council
+- #1204
+- Neath Port Talbot
+- #1213
+
+## 0.134.3 (2025-02-15)
+
+### Fix
+
+- Update input.json
+- 1235 Councils missing Selenium in input.json
+
+## 0.134.2 (2025-02-15)
+
+### Fix
+
+- 1232 East herts missing Selenium url in input.json
+
+## 0.134.1 (2025-02-11)
+
+### Fix
+
+- Cheltenham Borough Council
+- #1061
+
+## 0.134.0 (2025-02-07)
+
+### Feat
+
+- Ipswich Borough Council - trying different address
+- Ipswich Borough Council - correcting param name in input.json
+- Ipswich Borough Council - added input.json values and refactored code
+- Ipswich Borough Council - initial implementation
+
+## 0.133.0 (2025-02-02)
+
+### Feat
+
+- adding manual refresh
+
+## 0.132.0 (2025-02-02)
+
+### Feat
+
+- adding manual refresh
+
+## 0.131.0 (2025-02-02)
+
+### Feat
+
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding manual refresh
+- adding unit tests for the new manual refresh
+- adding manual refresh control
+
+## 0.130.1 (2025-01-30)
+
+### Fix
+
+- slow councils
+
 ## 0.130.0 (2025-01-29)
 
 ### Feat
